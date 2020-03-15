@@ -1,0 +1,12 @@
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.vbprojAssemblyReference.cache
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.frmCars.resources
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.Resources.resources
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.vbproj.GenerateResource.cache
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.vbproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\bin\Debug\Lab4Cars.exe.config
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\bin\Debug\Lab4Cars.exe
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\bin\Debug\Lab4Cars.pdb
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\bin\Debug\Lab4Cars.xml
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.exe
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.xml
+C:\Users\micha\source\repos\Lab4Cars\Lab4Cars\obj\Debug\Lab4Cars.pdb
